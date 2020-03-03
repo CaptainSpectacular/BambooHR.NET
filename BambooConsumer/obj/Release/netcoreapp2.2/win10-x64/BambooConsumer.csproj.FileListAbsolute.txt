@@ -1,0 +1,17 @@
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\bin\Release\netcoreapp2.2\win10-x64\BambooConsumer.exe
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\bin\Release\netcoreapp2.2\win10-x64\BambooConsumer.dll.config
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\bin\Release\netcoreapp2.2\win10-x64\BambooConsumer.deps.json
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\bin\Release\netcoreapp2.2\win10-x64\BambooConsumer.runtimeconfig.json
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\bin\Release\netcoreapp2.2\win10-x64\BambooConsumer.runtimeconfig.dev.json
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\bin\Release\netcoreapp2.2\win10-x64\BambooConsumer.dll
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\bin\Release\netcoreapp2.2\win10-x64\BambooConsumer.pdb
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\bin\Release\netcoreapp2.2\win10-x64\System.DirectoryServices.dll
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\obj\Release\netcoreapp2.2\win10-x64\BambooConsumer.csprojAssemblyReference.cache
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\obj\Release\netcoreapp2.2\win10-x64\BambooConsumer.csproj.CoreCompileInputs.cache
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\obj\Release\netcoreapp2.2\win10-x64\BambooConsumer.AssemblyInfoInputs.cache
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\obj\Release\netcoreapp2.2\win10-x64\BambooConsumer.AssemblyInfo.cs
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\obj\Release\netcoreapp2.2\win10-x64\BambooConsumer.csproj.CopyComplete
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\obj\Release\netcoreapp2.2\win10-x64\BambooConsumer.dll
+C:\Users\cpollock\source\repos\BambooConsumer\BambooConsumer\obj\Release\netcoreapp2.2\win10-x64\BambooConsumer.pdb
